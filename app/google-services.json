@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055049464847",
+    "firebase_url": "https://practico2-2ee79.firebaseio.com",
+    "project_id": "practico2-2ee79",
+    "storage_bucket": "practico2-2ee79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055049464847:android:44c49583ada5b5c1",
+        "android_client_info": {
+          "package_name": "com.appmoviles.practico2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055049464847-k5ieaf48sci492i2178gtskuuotfcak2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmoviles.practico2",
+            "certificate_hash": "13943a7da1f7214a6a2ce2693a010b222a086976"
+          }
+        },
+        {
+          "client_id": "1055049464847-e5333mj5gf1audstffe2bbrimaeh63fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLTd3AaMsmWc7UuxUvXyu_k4bZPMDDhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055049464847-e5333mj5gf1audstffe2bbrimaeh63fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

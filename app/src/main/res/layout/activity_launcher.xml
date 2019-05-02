@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:text="PRACTICO II"
             android:gravity="center"
-            android:textSize="80dp"
+            android:textSize="70sp"
             android:textColor="@color/colorPrimary"
             android:paddingTop="50dp"
             />
